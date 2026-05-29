@@ -361,6 +361,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(7).jpeg" group-title="Drama",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Party Universe" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(1).png" group-title="Music",Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
-#EXTINF:-1 tvg-name="Borhan TV HD" tvg-logo="https://res.cloudinary.com/dntvrm1wn/image/upload/v1779988390/ic_launcher_dbr76h.png" group-title="Music",Party Universe
-http://127.0.0.1:8888/live/stream/index.m3u8
+#EXTINF:-1 tvg-name="Borhan TV HD" tvg-logo="https://res.cloudinary.com/dntvrm1wn/image/upload/v1779988390/ic_launcher_dbr76h.png" group-title="Drama",Borhan TV HD
+https://recess-recapture-waltz.ngrok-free.dev/live/stream/index.m3u8
