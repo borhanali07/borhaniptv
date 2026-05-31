@@ -34,8 +34,15 @@ https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3da514e08a15c80daed60a18b3f423fa
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864" group-title="Bangla",Bangla TV
 https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MpTVSnd.png" group-title="Sports",Nagorik TV Sports
+http://198.195.239.50:8095/nagorik/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d" group-title="Bangla",Ananda TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779283759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=504b9350b4703116ca4ab20e4013288e
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/86.png" group-title="bangla",MOVIE BANGLA TV
+https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8?token=f1153ce106f107a9c3e37bd2b551e3d0184519c3-cfc48222db91c2002e7fae0d54efda6b-1780020918-1780010118
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779283760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0a2ae0189a44e789d3fecffe5a474ec3
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
@@ -186,7 +193,7 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="Channels",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="Channels",Sports Fishing TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sivaa8w.jpeg" group-title="Channels",Sports Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="Channels",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -354,6 +361,13 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD
 https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWgCBRj.jpeg" group-title="Other",STAR SPORTS SELECT1 HD
+http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUx2GpH.jpeg" group-title="Sports",SONY SPORTS 2 HD
+http://198.195.239.50:8095/SonyTenSports2/index.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports Extra" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(2).png" group-title="Sports",Bein Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/IMG_20260528_193117_215.jpg" group-title="Movies",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images.png" group-title="News",Star News
@@ -361,5 +375,55 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(7).jpeg" group-title="Drama",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Party Universe" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(1).png" group-title="Music",Party Universe
-#EXTINF:-1 tvg-name="Borhan TV HD" tvg-logo="https://res.cloudinary.com/dntvrm1wn/image/upload/v1779988390/ic_launcher_dbr76h.png" group-title="Drama",Borhan TV HD
-https://recess-recapture-waltz.ngrok-free.dev/live/stream/index.m3u8
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoxR4sY.png" group-title="Music song",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(8).jpeg" group-title="Religious",Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg" group-title="Entertainment",Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Movies",Jalsha Movies
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Entertainment",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qRWssM.jpeg" group-title="Entertainment",COLOR BANGLA
+http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac" group-title="English",Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/b4umusic.png" group-title="music",B4U MUSIC
+https://edge2.roarzone.net:8447/roarzone/edge3/b4u_music/index.m3u8?token=c8e1b3ce4fc9be68c84c9bba76eef808a3d55290-236586535b0196bd8ca943fe94d83b05-1780020920-1780010120
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/34.png" group-title="bangla",ZEE BANGLA
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/29.png" group-title="inbangla",ZEE BANGLA CINEMA
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=33eb90cb5993505e7adebcdc9fe5a680f5ff40b4-89433e784e249e183a59446474d0fff1-1780020920-1780010120
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/33.png" group-title="inbangla",SONY AATH
+https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=571cbfa1fa2e6d2ce7d53975a8ae77afb5189d20-eb13b2ccb090084878804fb0e801091a-1780020920-1780010120
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-name="Deshi Tv" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangladesh",Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ Channel" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(11).jpeg" group-title="Sports",FIFA+ Channel
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Religious",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(12).jpeg" group-title="Movies",Rajdhani TV
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+
+#EXTINF:-1 tvg-name="NRB TV" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(13).jpeg" group-title="Movies",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/342b1a51814ed9946fe36ac4999d82a2" group-title="Bangla",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
